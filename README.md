@@ -1,7 +1,10 @@
-Partly a test of doing PowerShell in visual studio.
-Partly an attempt to run PowerShell as admin.
+# powershell-runas-admin
 
-Also see:
+This is a proof of concept of a powershell script that tests to see if it is running as an administrator, and relaunches itself as administrator if needed.
+
+It is also a test of doing PowerShell in visual studio.
+
+## Also see:
 
 <https://blogs.msdn.microsoft.com/virtual_pc_guy/2010/09/23/a-self-elevating-powershell-script/>
 
